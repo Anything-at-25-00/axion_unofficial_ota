@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1758509351,
-            "filename": "axion-2.0-BETA-20250922-COMMUNITY-GMS-LH7n.zip",
-            "id": "dcb9832d6f1fac85d3833e8492043dd9",
+            "datetime": 1760455215,
+            "filename": "axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-LH7n.zip",
+            "id": "8430773a044f59c18a3df39c22837811",
             "romtype": "COMMUNITY",
-            "size": 2014623141,
-            "url": "https://sourceforge.net/projects/axion-pova4series-releases/files/axion-2.0-BETA-20250922-COMMUNITY-GMS-LH7n/axion-2.0-BETA-20250922-COMMUNITY-GMS-LH7n.zip/download",
-            "version": "2.0"
+            "size": 2018559616,
+            "url": "https://sourceforge.net/projects/axion-pova4series-releases/files/axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-LH7n/axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-LH7n.zip/download",
+            "version": "2.1"
         }
     ]
 }
