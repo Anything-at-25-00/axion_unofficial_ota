@@ -1,0 +1,17 @@
+DEVICE: rozen
+
+Build Date: 10-22-2025
+- Update Kernel to Mahiru 5.1
+- Switch vendor_dlkm and odm_dlkm to erofs
+- End INTERACTION hint on EXPENSIVE_RENDERING
+- Rename the default device name
+- Move Bluetooth profiles props to product
+- Remove deprecated config_mobile_tcp_buffers/networkAttributes
+- init: drop init.aee.rc
+- Libraries are now automatically added to PRODUCT_PACKAGES
+- Switch to stub libaedv
+- Remove unused audio codecs
+- props: Drop `ro.vendor.perf.scroll_opt=true`
+- Remove ro.apk_verity.mode from vendor.prop
+- Set bluetooth vendor ID as `MediaTek, Inc.`
+
