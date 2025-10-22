@@ -1,0 +1,6 @@
+DEVICE: CK7n
+
+Build Date: 10-22-2025
+- End INTERACTION hint on EXPENSIVE_RENDERING
+- Enable AOD
+- Build lib_driver_cmd_mt66xx for hostapd
