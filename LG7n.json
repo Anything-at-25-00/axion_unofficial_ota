@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1760452393,
-            "filename": "axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-LG7n.zip",
-            "id": "42517c371c5cd1272895efe8bf0bb6d6",
+            "datetime": 1761160453,
+            "filename": "axion-2.1-NIGHTLY-20251022-COMMUNITY-GMS-LG7n.zip",
+            "id": "954db60f399f0ba588ccbc31f5af871e",
             "romtype": "COMMUNITY",
-            "size": 1951638857,
-            "url": "https://sourceforge.net/projects/axion-pova4series-releases/files/axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-LG7n/axion-2.1-NIGHTLY-20251014-COMMUNITY-GMS-LG7n.zip/download",
+            "size": 1938752297,
+            "url": "https://sourceforge.net/projects/axion-pova4series-releases/files/axion-2.1-NIGHTLY-20251022-COMMUNITY-GMS-LG7n/axion-2.1-NIGHTLY-20251022-COMMUNITY-GMS-LG7n.zip/download",
             "version": "2.1"
         }
     ]
