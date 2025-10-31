@@ -1,5 +1,9 @@
 DEVICE: LG8n
 
+Build Date: 10-31-2025
+- Sync with Axion Sources
+- Update Kernel to Mahiru 5.1 Revision 2(5.1.1 Early Access)
+
 Build Date: 10-22-2025
 - Update Kernel to Mahiru 5.1
 - End INTERACTION hint on EXPENSIVE_RENDERING
