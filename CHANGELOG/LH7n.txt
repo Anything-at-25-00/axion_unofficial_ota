@@ -1,5 +1,10 @@
 DEVICE: rozen
 
+Build Date: 11-01-2025
+- Sync with Axion Sources
+- Update Kernel to Mahiru 5.1 Revision 2(5.1.1 Early Access)
+- Enable AVB Hashtree Verification
+
 Build Date: 10-22-2025
 - Update Kernel to Mahiru 5.1
 - Switch vendor_dlkm and odm_dlkm to erofs
