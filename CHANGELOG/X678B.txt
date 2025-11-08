@@ -1,0 +1,9 @@
+DEVICE: X678B
+
+Build Date: 11-08-2025
+- Update Kernel to Mahiru 25Q4(Mahiru 6.0 Snowdrop Snapshot Early Access)
+- Sync with Axion 2.2 Sources
+- X678B: rootdir: Drop tranfs actions
+- X678B: rootdir: Stop setting watermark_scale_factor to 200
+- X678B: BoardConfig: Drop --set-hashtree-disabled vbmeta flag
+- X678B: Use sha256 to build the hashtree in avb image
