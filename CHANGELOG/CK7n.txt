@@ -1,5 +1,13 @@
 DEVICE: CK7n
 
+Build Date: 11-08-2025
+- Update Kernel to Mahiru 25Q4(Mahiru 6.0 Snowdrop Snapshot Early Access)
+- Sync with Axion 2.2 Sources
+- CK7n: rootdir: Drop tranfs actions
+- CK7n: rootdir: Stop setting watermark_scale_factor to 200
+- CK7n: BoardConfig: Drop --set-hashtree-disabled vbmeta flag
+- CK7n: Use sha256 to build the hashtree in avb image
+
 Build Date: 10-22-2025
 - End INTERACTION hint on EXPENSIVE_RENDERING
 - Enable AOD
