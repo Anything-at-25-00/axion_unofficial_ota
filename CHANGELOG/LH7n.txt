@@ -1,5 +1,13 @@
 DEVICE: rozen
 
+Build Date: 11-08-2025
+- Sync with Axion 2.2 Sources
+- Update Kernel to Mahiru 25Q4(Mahiru 6.0 Snowdrop Snapshot Early Access)
+- LH7n: rootdir: Drop tranfs actions
+- LH7n: rootdir: Stop setting watermark_scale_factor to 200
+- LH7n: BoardConfig: Drop --set-hashtree-disabled vbmeta flag
+- LH7n: Use sha256 to build the hashtree in avb image
+
 Build Date: 11-01-2025
 - Sync with Axion Sources
 - Update Kernel to Mahiru 5.1 Revision 2(5.1.1 Early Access)
