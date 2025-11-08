@@ -1,5 +1,11 @@
 DEVICE: LG8n
 
+Build Date: 11-08-2025
+- Sync with Axion 2.2 Sources
+- Update Kernel to Mahiru 25Q4(Mahiru 6.0 Snowdrop Snapshot)
+- mt6789-common: rootdir: Drop tranfs actions
+- mt6789-common: rootdir: Stop setting watermark_scale_factor to 200
+
 Build Date: 10-31-2025
 - Sync with Axion Sources
 - Update Kernel to Mahiru 5.1 Revision 2(5.1.1 Early Access)
